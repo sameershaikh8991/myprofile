@@ -12,7 +12,7 @@ sameer</a></h1>
 
 - 🌱 I’m currently Working on java 
 
-- 🌱 I’m currently learning java  <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning java
 
 - 💬 Ask me about **python,java**
 
